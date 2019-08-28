@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\temp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>06/26/2019 09:32:56</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>06/26/2019 09:32:56</publishTime>
+    </File>
+    <File Include="bin/DavaoCarRentalHub.dll">
+      <publishTime>08/28/2019 10:47:36</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/13/2015 13:16:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/13/2015 13:16:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/13/2015 13:16:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/13/2015 13:16:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 12:19:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>07/17/2013 17:03:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>08/12/2019 17:37:50</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/25/2019 15:08:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/25/2019 15:08:18</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/FordEverest/Ford-Everest.png">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/FordEverest/Ford-Fiesta.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity/HondaCity2018.png">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity2012/HondaCity2012-interior.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity2012/HondaCity2012-rear.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity2012/HondaCity2012-seats.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity2012/HondaCity2012.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/HondaCity2012/HondaCityFront.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/Pickup/Estrada.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/SelfDrive/HondaCity2012 %282%29.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/SelfDrive/Toyota-Innova %282%29.png">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/SelfDrive/ToyotaInnova2015 %282%29.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaAvanza/ToyotaAvanza.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaFortuner/Fortuner.png">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaGrandia/Toyota-GL-Grandia-interior.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaGrandia/Toyota-GL-Grandia-rear.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaGrandia/Toyota-GL-Grandia.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaInnova/toyota-innova-cabin.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaInnova/Toyota-innova.png">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaInnova/toyotainnova2015.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaInnova/ToyotaInnovaSilver.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaSelfDrive/ToyotaSelfDrive.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/ToyotaSelfDrive/ToyotaSelfDrive2.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/VanRental/VanRear.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/VanRental/VanRental.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/CarViews/VanRental/VanSeats.jpg">
+      <publishTime>06/25/2019 15:26:09</publishTime>
+    </File>
+    <File Include="Images/CarRental/ford-everest-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/ford/fordeverest_front side view.jpg">
+      <publishTime>06/25/2019 15:25:01</publishTime>
+    </File>
+    <File Include="Images/CarRental/ford/fordeverest_interior.jpg">
+      <publishTime>06/25/2019 15:25:01</publishTime>
+    </File>
+    <File Include="Images/CarRental/ford/frod_sideview.jpg">
+      <publishTime>06/25/2019 15:25:01</publishTime>
+    </File>
+    <File Include="Images/CarRental/FordEverest.jpg">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/fordeverest_primary.jpg">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/fortuner/fortuner_frontview.jpg">
+      <publishTime>06/25/2019 15:24:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/fortuner/fortuner_interior.jpg">
+      <publishTime>06/25/2019 15:24:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/fortuner/fortuner_sideview.jpg">
+      <publishTime>06/25/2019 15:24:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/fortuner/toyotafortuner_rearview.jpg">
+      <publishTime>06/25/2019 15:24:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/FortunerPrimary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/glgrandia-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/glgrandia/glgrandia_frontview.jpg">
+      <publishTime>06/25/2019 15:24:46</publishTime>
+    </File>
+    <File Include="Images/CarRental/glgrandia/glgrandia_interior.jpg">
+      <publishTime>06/25/2019 15:24:46</publishTime>
+    </File>
+    <File Include="Images/CarRental/glgrandia/glgrandia_sideview.jpg">
+      <publishTime>06/25/2019 15:24:46</publishTime>
+    </File>
+    <File Include="Images/CarRental/grandiaPrimary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/honda-city-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/HondaCity.jpg">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/hondacity/hondaCity_frontview.jpg">
+      <publishTime>06/25/2019 15:24:40</publishTime>
+    </File>
+    <File Include="Images/CarRental/hondacity/hondacity_interior.jpg">
+      <publishTime>06/25/2019 15:24:40</publishTime>
+    </File>
+    <File Include="Images/CarRental/hondacity/hondacity_rearview.jpg">
+      <publishTime>06/25/2019 15:24:40</publishTime>
+    </File>
+    <File Include="Images/CarRental/HondaCityPrimary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/hondaCity_Banner.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/hondacity_primary.jpg">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/innova/toyotainnova_front.jpg">
+      <publishTime>06/25/2019 15:24:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/innova/toyotainnova_interior.jpg">
+      <publishTime>06/25/2019 15:24:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/innova/ToyotaInnova_SideView.jpg">
+      <publishTime>06/25/2019 15:24:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/InnovaPrimary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissan-premium-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissanPremium/nissanpremium_frontview.jpg">
+      <publishTime>06/25/2019 15:24:25</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissanPremium/nissanpremium_interior.jpg">
+      <publishTime>06/25/2019 15:24:25</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissanPremium/nissanpremium_sideview.jpg">
+      <publishTime>06/25/2019 15:24:25</publishTime>
+    </File>
+    <File Include="Images/CarRental/NissanPremiumPrimary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissanpremium_primary.jpg">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/nissan_premium_primary.png">
+      <publishTime>06/25/2019 15:22:33</publishTime>
+    </File>
+    <File Include="Images/CarRental/pickup-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/pickup/pickup_front.jpg">
+      <publishTime>06/25/2019 15:24:05</publishTime>
+    </File>
+    <File Include="Images/CarRental/pickup/pickup_interior.jpg">
+      <publishTime>06/25/2019 15:24:05</publishTime>
+    </File>
+    <File Include="Images/CarRental/pickup/pickup_sideview.jpg">
+      <publishTime>06/25/2019 15:24:05</publishTime>
+    </File>
+    <File Include="Images/CarRental/PickupPrimary.png">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/placeholder.png">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/strada_primary.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/toyota-innova-car-rental.PNG">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/ToyotaFortuner_primary.png">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/ToyotaGrandia.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/toyotagrandia_primary.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/ToyotaHilux.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/ToyotaInnova.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/ToyotaInnovaDetails.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/toyotainnova_primary.jpg">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="Images/CarRental/vios/toyotavios_backsideview.jpg">
+      <publishTime>06/25/2019 15:23:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/vios/toyotavios_frontview.jpg">
+      <publishTime>06/25/2019 15:23:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/vios/toyotavios_interior.jpg">
+      <publishTime>06/25/2019 15:23:51</publishTime>
+    </File>
+    <File Include="Images/CarRental/vios_primary.png">
+      <publishTime>06/25/2019 15:22:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/25/2019 15:09:32</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/26/2019 09:32:15</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/25/2019 15:09:03</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/25/2019 15:09:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>06/25/2019 15:09:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>06/25/2019 15:09:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>06/25/2019 15:09:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>06/25/2019 15:09:13</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>06/25/2019 15:09:14</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>06/25/2019 15:09:13</publishTime>
+    </File>
+    <File Include="Views/Account/ConfirmEmail.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ForgotPassword.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ForgotPasswordConfirmation.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ResetPassword.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/ResetPasswordConfirmation.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/SendCode.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/VerifyCode.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>08/28/2019 10:38:35</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/DavaoRentaCar.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/FordEverest.cshtml">
+      <publishTime>06/25/2019 15:55:42</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/FordFiesta.cshtml">
+      <publishTime>06/25/2019 15:55:47</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/HondaCity.cshtml">
+      <publishTime>06/25/2019 15:55:53</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/HondaCity2012-SelfDrive.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/HondaCity2012.cshtml">
+      <publishTime>06/25/2019 15:56:02</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/HondaCityRental.cshtml">
+      <publishTime>06/25/2019 15:56:06</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingAds.cshtml">
+      <publishTime>08/28/2019 10:47:34</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingAds2.cshtml">
+      <publishTime>08/15/2019 14:54:18</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingMPV.cshtml">
+      <publishTime>08/15/2019 14:54:45</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingPickup.cshtml">
+      <publishTime>08/15/2019 14:54:56</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingSedan.cshtml">
+      <publishTime>08/15/2019 14:55:05</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingSUV.cshtml">
+      <publishTime>08/15/2019 15:00:18</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ListingVan.cshtml">
+      <publishTime>08/15/2019 15:00:22</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/MiniVanSedan.cshtml">
+      <publishTime>06/25/2019 15:57:01</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/Pickup4x4.cshtml">
+      <publishTime>06/25/2019 15:57:08</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/PopularAdsView.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/RentCarSelfDrive.cshtml">
+      <publishTime>06/25/2019 15:57:38</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/Tags/car-rental-davao.cshtml">
+      <publishTime>06/25/2019 16:07:02</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/Tags/Davao-Rent-A-Car.cshtml">
+      <publishTime>06/25/2019 16:06:37</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/Tags/rent-a-car-davao-city.cshtml">
+      <publishTime>06/25/2019 16:06:09</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/Tags/van-for-rent-davao-city.cshtml">
+      <publishTime>06/25/2019 16:05:53</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/TagsView.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/TagsViewListing.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ToyotaAvanza.cshtml">
+      <publishTime>06/25/2019 15:57:54</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ToyotaFortuner.cshtml">
+      <publishTime>06/25/2019 15:33:21</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ToyotaGLGrandia.cshtml">
+      <publishTime>06/25/2019 16:08:24</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ToyotaInnova.cshtml">
+      <publishTime>06/25/2019 15:58:37</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/ToyotaInnovaCarForRent.cshtml">
+      <publishTime>06/25/2019 15:58:42</publishTime>
+    </File>
+    <File Include="Views/Home/CarViews/VanRental.cshtml">
+      <publishTime>06/25/2019 16:09:23</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>08/28/2019 10:38:39</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>08/28/2019 10:37:03</publishTime>
+    </File>
+    <File Include="Views/Manage/AddPhoneNumber.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Manage/ChangePassword.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Manage/Index.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Manage/ManageLogins.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Manage/SetPassword.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
+      <publishTime>06/25/2019 15:09:22</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>06/25/2019 15:09:21</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>06/25/2019 15:09:23</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>08/28/2019 10:41:47</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>06/25/2019 15:09:23</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>06/25/2019 15:08:18</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>06/25/2019 15:08:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/28/2019 10:50:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
